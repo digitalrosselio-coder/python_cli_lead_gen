@@ -1,0 +1,24 @@
+**Reusable Company Profile Research Prompt**
+
+"Please provide a detailed, up-to-date profile of [Company Name] from [LinkedIn URL or Company Website URL]. Include the following information in this exact format:
+
+**Basic Information:**
+- Company name: [Full official name]
+- Company website: [Main website URL]
+- Company LinkedIn: [LinkedIn company page URL]
+- Industry: [Primary industry/sector]
+- HQ location: [City, State]
+- Year founded: [Founding year]
+- CEO name: [Current CEO/founder name]
+
+**Business Details:**
+- Product/Services: [Brief description of what they offer]
+- Operational fit: [How the company operates and delivers value to customers]
+- Ethical alignment: [Company's stated values, certifications, CSR initiatives, ethical practices]
+- Growth signals: [Recent expansion, funding, awards, hiring, new products, market presence, or other growth indicators]
+
+**Research Notes:**
+- Source: [Where you found this information - LinkedIn, company website, news, etc.]
+- Data confidence: [Note any missing information or uncertainty]
+
+Please cite sources for each section and mention any relevant context around data variability or conflicting information found across sources."

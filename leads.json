@@ -1,0 +1,17 @@
+[
+  {
+    "company_name": "Acme Tech",
+    "company_website": "https://acmetech.com/",
+    "company_linkedin": "https://linkedin.com/company/acmetech",
+    "industry": "software",
+    "product_services": "Cloud Hosting, AI Tools",
+    "hq_state": "California",
+    "hq_city": "San Diego",
+    "year_founded": 2012,
+    "ceo_name": "John Smith",
+    "source": "linkedin, website, referral",
+    "operational_fit": "Strong fit for cloud integration needs.\nExcellent compatibility with existing SaaS stack.",
+    "ethical_alignment": "B-Corp certified, eco-friendly datacenter.\nTransparent privacy policies.",
+    "growth_signals": "Recently closed $10M funding.\nAnnounced new product launch in Q4."
+  }
+]
